@@ -23,10 +23,6 @@
     "nome": "DANIEL DE SOUZA LIMA",
     "foto": "DANIEL DE SOUZA LIMA.jpg"
   },
-  "10": {
-    "nome": "DAVI FERNANDO FAIZ DA SILVA",
-    "foto": "DAVI FERNANDO FAIZ DA SILVA.jpg"
-  },
   "11": {
     "nome": "EMANUEL BARBOSA PEREIRA SALES",
     "foto": "EMANUEL BARBOSA PEREIRA SALES.jpg"
@@ -119,18 +115,6 @@
     "nome": "KEMILLY VITÓRIA CARDOSO",
     "foto": "KEMILLY VITÓRIA CARDOSO.jpg"
   },
-  "45": {
-    "nome": "LUIS HENRIQUE MARTINS",
-    "foto": "LUIS HENRIQUE MARTINS.jpg"
-  },
-  "46": {
-    "nome": "BEATRIZ SILVEIRA DA SILVA",
-    "foto": "BEATRIZ SILVEIRA DA SILVA.jpg"
-  },
-  "47": {
-    "nome": "MATHEUS MAXIMILIANO DE JESUS",
-    "foto": "MATHEUS MAXIMILIANO DE JESUS.jpg"
-  },
   "48": {
     "nome": "GABRIEL DE SOUZA PEDROSO",
     "foto": "GABRIEL DE SOUZA PEDROSO.jpg"
@@ -138,5 +122,13 @@
   "49": {
     "nome": "GABRIEL EDUARDO OLIVEIRA MATOS",
     "foto": "GABRIEL EDUARDO OLIVEIRA MATOS.jpg"
+  },
+  "50": {
+    "nome": "CARLOS EDUARDO BUENO RAMOS",
+    "foto": "CARLOS EDUARDO BUENO RAMOS.jpg"
+  },
+  "53": {
+    "nome": "LUCAS GABRIEL JACOMUSSI",
+    "foto": "LUCAS GABRIEL JACOMUSSI.jpg"
   }
 }
